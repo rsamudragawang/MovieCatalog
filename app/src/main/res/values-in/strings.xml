@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_movie">Cari Film</string>
+    <string name="add">Berhasil</string>
+    <string name="addf">Gagal</string>
+    <string name="content_desc">Poster Film Tv</string>
+    <string name="menu_fav">Tv Film Kesukaan</string>
+    <string name="menu_list">Daftar Film Tv</string>
+    <string name="menu_movie">Film</string>
+    <string name="menu_tv">Tv</string>
+    <string name="action_settings">Pengaturan Bahasa</string>
+    <string name="overview">Ikhtisar</string>
+    <string name="hello_world">Hai</string>
+    <string name="content_notif">Ayo pakai aplikasi ini lagi</string>
+    <string name="title_activity_settings">Pengaturan</string>
+    <string name="menu_notif_setting">Pengaturan Pemberitahuan</string>
+    <string name="attachment_daily">Pengingat Untuk Kembali Ke Aplikasi</string>
+    <string name="attachment_release">Pengingat Menampilkan Rilisan Film Hari Ini</string>
+    <string name="daily_notif">Pengingat Harian</string>
+    <string name="release_notif">Pengingat Rilis</string>
+    <string name="menu_fav_movie">Film Kesukaan</string>
+    <string name="fav_movie">Film Kesukaan</string>
+    <string name="fav_tv">Tv Kesukaan</string>
+</resources>

@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name" translatable="false">MovieCatalogue</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Samudra Gawang</string>
+    <string name="nav_header_subtitle" translatable="false">ganar.gatul@gmail.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings">Settings Language</string>
+
+    <string name="menu_list">List Movie Tv</string>
+    <string name="menu_movie">Movie</string>
+    <string name="menu_tv">Tv</string>
+    <string name="menu_fav">Favorite Movie Tv</string>
+    <string name="menu_fav_movie">Favorite Movie</string>
+
+    <string name="content_desc">Movie Tv Poster</string>
+    <string name="hello_world">Hello</string>
+    <string name="add">Success</string>
+    <string name="addf">Failed</string>
+    <string name="fav_tv">Favorite Tv</string>
+    <string name="fav_movie">Favorite Movie</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="overview">Overview</string>
+    <string name="api_movie" translatable="false">https://api.themoviedb.org/3/discover/movie?api_key=d8c375524b59e7a31fdedc44597ce2d4&amp;language=en-US</string>
+    <string name="api_tv" translatable="false">https://api.themoviedb.org/3/discover/tv?api_key=d8c375524b59e7a31fdedc44597ce2d4&amp;language=en-US</string>
+    <string name="api_movie_search" translatable="false">https://api.themoviedb.org/3/search/movie?api_key=d8c375524b59e7a31fdedc44597ce2d4&amp;language=en-US&amp;query=</string>
+    <string name="api_tv_search" translatable="false">https://api.themoviedb.org/3/search/tv?api_key=d8c375524b59e7a31fdedc44597ce2d4&amp;language=en-US&amp;query=</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="content_notif">Let\'s use this application again</string>
+    <string name="api_release" translatable="false">https://api.themoviedb.org/3/discover/movie?api_key=d8c375524b59e7a31fdedc44597ce2d4&amp;language=en-US&amp;primary_release_date.gte=%1$s&amp;primary_release_date.lte=%2$s</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="menu_notif_setting">Notification Settings</string>
+    <!-- Preference Titles -->
+
+
+    <!-- Messages Preferences -->
+
+
+    <!-- Sync Preferences -->
+    <string name="release_notif">Release Reminder</string>
+    <string name="attachment_release">Reminder Showing That Movie Release Today</string>
+    <string name="daily_notif">Daily Reminder</string>
+    <string name="attachment_daily">Reminder For Return To App</string>
+    <string name="appwidget_text" translatable="false">EXAMPLE</string>
+    <string name="add_widget" translatable="false">Add widget</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+
+</resources>
